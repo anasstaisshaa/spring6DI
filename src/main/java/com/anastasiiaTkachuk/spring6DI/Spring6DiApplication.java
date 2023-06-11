@@ -3,6 +3,7 @@ package com.anastasiiaTkachuk.spring6DI;
 import com.anastasiiaTkachuk.spring6DI.controllers.MyController;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.context.properties.ConfigurationPropertiesScan;
 import org.springframework.context.ConfigurableApplicationContext;
 
 @SpringBootApplication
