@@ -2,6 +2,7 @@ package com.anastasiiaTkachuk.spring6DI.controllers;
 
 import com.anastasiiaTkachuk.spring6DI.services.EnvironmentService;
 import lombok.RequiredArgsConstructor;
+import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Controller;
 
 @Controller

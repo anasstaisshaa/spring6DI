@@ -17,6 +17,5 @@ class EnvironmentControllerTest {
     @Test
     void getEnvironment() {
         System.out.println(controller.getEnvironment());
-
     }
 }
